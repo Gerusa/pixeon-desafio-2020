@@ -3,7 +3,7 @@
  
 # Sobre o Projeto
 * API REST para controle dos registros das instituições de saúde, bem como dos exames dessas instituições.
-* Projeto desenvolvido em java 8 com spring boot, criado a partir de https://start.spring.io/.
+* Projeto desenvolvido no eclipse, em java 8 com spring boot, criado a partir de https://start.spring.io/.
 * O arquivo *Pixeon.postman_collection* é um export collection do postman, que contém as chamadas a todos os serviços implementados no projeto.
 * Servidor configurado na porta **8090**.
 
